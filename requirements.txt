@@ -1,0 +1,6 @@
+google-genai
+tensorflow
+google-genai
+scikit-learn
+xgboost
+streamlit
