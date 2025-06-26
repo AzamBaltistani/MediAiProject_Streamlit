@@ -4,4 +4,4 @@ google-genai
 scikit-learn
 xgboost
 streamlit
-pip install plotly
+plotly
