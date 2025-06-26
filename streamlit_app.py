@@ -21,6 +21,11 @@ pages = st.navigation(
             page="views/health_bot.py",
             title="AI Health Assistant",
             url_path="Health_Chatbot"
+        ),
+        st.Page(
+            page="views/contact_me.py",
+            title="Contact Me",
+            url_path="Contact_Me"
         )
     ]
 )
