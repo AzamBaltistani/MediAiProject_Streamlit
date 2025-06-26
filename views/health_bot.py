@@ -1,7 +1,6 @@
 import streamlit as st
 from google import genai
 import time
-from dotenv import load_dotenv
 
 st.set_page_config(page_title="Medi Health Chatbot", page_icon="🤖")
 
